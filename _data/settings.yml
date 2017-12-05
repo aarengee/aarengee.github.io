@@ -1,5 +1,5 @@
 title:  Randomblog
-tagline:  a minimalist Jekyll theme
+tagline:  shower thoughts
 
 # Authors documented under _data
 
@@ -18,5 +18,5 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/aarengee'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/rijul-gupta-2a7293104'}
 - {icon: 'steam', link: 'http://steamcommunity.com/id/rijul'}
-- {icon: 'fa-telegram', link: 'https://t.me/aarengee'}
+- {icon: 'paper-plane', link: 'https://t.me/aarengee'}
 - {icon: 'rss-square', link: 'feed.xml'}
