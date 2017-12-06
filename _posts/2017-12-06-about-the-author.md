@@ -5,9 +5,9 @@ author: "aaRJay"
 categories: journal
 tags: [about,casual]
 image:
-  feature: cutting.jpg
-  credit:
-  creditlink:
+  feature: firstpost.jpg
+  credit: 
+  creditlink: 
 ---
 
 Hello! My name is Rijul (aaRJay).I am an avid software developer with interests in machine-learning, web development and information security.
