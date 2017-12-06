@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "all about me"
+title: "all about me - aarJay"
 author: "aaRJay"
 categories: journal
-tags: [about,casual]
+tags: [about,casual,rng]
 image:
   feature: firstpost.jpg
   credit: 
