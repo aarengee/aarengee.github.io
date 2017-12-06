@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-welcome-to-lagrange %}).
+Hello! My name is Rijul (aaRJay).I am an avid software developer with interests in machine-learning, web development and information security.I am currently training for a full time job at Yatra.com. [tell me more]({{ site.github.url }}{% post_url 2017-12-06-about-the-author %}).
