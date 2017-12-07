@@ -5,7 +5,7 @@ author: "pkenil96"
 categories: journal
 tags: [about,pkenil96,kp,blog]
 image:
-  feature: pkenil96.jpg
+  feature: pkenil96.jpeg
   credit: 
   creditlink: 
 ---
@@ -20,7 +20,10 @@ Lately i have been developing a great predaliction for financing and investing a
 
 I am an introvert and it takes some time for people to like me. I love to help people and it really makes me feel great if i become the reason for bringing even a little smile on somebody's face.
 
-Apart from these i also love to travel, listen to music - mostly hindi and english songs and of course read lots and lots of books. I love reading fiction, biographies and self-improvement books. I always wanted to become a travel jockey but so far i couldn't become one. However five years down the road i would like to be a programmer who travels around the world, take freelancing projects and explore everything. To sum it up i would wanna EAT-TRAVEL-CODE.
+Apart from these i also love to travel, listen to music - mostly hindi and english songs and of course read lots and lots of books. I love reading fiction, biographies and self-improvement books.
+I am a big FRIENDS fan!!
+
+I always wanted to become a travel jockey but so far i couldn't become one. However five years down the road i would like to be a programmer who travels around the world, take freelancing projects and explore everything. To sum it up i would wanna EAT-TRAVEL-CODE.
 
 I always wanted to write such stuffs about me and put it on the internet but i never did and i would have never done it if it wasn't for my friend Rijul aka <a href="https://github.com/aarengee">aaRengee</a>, who made me put this on here. Special thanks to him for collaborating with me.
 
